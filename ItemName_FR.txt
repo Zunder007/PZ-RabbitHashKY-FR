@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_Base.RabbitHashMap = "Carte de Rabbit Hash",
+}
